@@ -3,11 +3,11 @@
 Reimagining Debt Collection Agency (DCA) Management
 through Digital & AI Solutions
 
-**Team Name: Seventeen
-Team Lead  : Swetha Nivasini B R
-Team Members: Swetha Nivasini B R 
-Mahagauri P   
-A Praneya **
+**Team Name: Seventeen**\
+**Team Lead  : Swetha Nivasini B R**\
+**Team Members: Swetha Nivasini B R** \
+**Mahagauri P**\
+**A Praneya **
 
 # Proposed Solution
 We propose a **Centralized DCA Management System** with **AI-based orchestration** that integrates with legacy
