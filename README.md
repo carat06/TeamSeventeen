@@ -7,7 +7,7 @@ through Digital & AI Solutions
 **Team Lead  : Swetha Nivasini B R**\
 **Team Members: Swetha Nivasini B R** \
 **Mahagauri P**\
-**A Praneya **
+**A Praneya**
 
 # Proposed Solution
 We propose a **Centralized DCA Management System** with **AI-based orchestration** that integrates with legacy
